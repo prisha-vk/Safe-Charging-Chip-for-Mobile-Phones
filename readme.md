@@ -17,13 +17,19 @@ The project combines an ESP32 microcontroller, a PYNQ-Z2 FPGA platform, sensor c
 
 The goal is to demonstrate an additional layer of charging safety through sensor monitoring, threshold-based fault detection, and relay-controlled power switching.
 
-📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
-Live Monitoring Dashboard
+### Live Monitoring Dashboard
+
 The dashboard displays voltage, current, temperature, calculated power, safety status, fault-test inputs, and USB connection status.
 
-Real-Time Sensor Trends
+![Dashboard Overview](images/dashboard-overview.png)
+
+### Real-Time Sensor Trends
+
 Live graphs visualize voltage, current, and temperature readings against their configured safety limits.
+
+![Sensor Trends](images/dashboard-trends.png)
 
 
 ## 🎯 Objectives
@@ -185,10 +191,3 @@ Testing should be limited to appropriate low-voltage DC sources and dummy loads.
 **Prisha**  
 Electronics and Communication Engineering Student
 
-## Dashboard Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](images/dashboard-overview.png)
-
-### Sensor Trends
-![Sensor Trends](images/dashboard-trends.png)
