@@ -170,6 +170,18 @@ Secured **3rd Prize** for the *Safe Charging Chip for Mobile Phones* project at 
 
 The project provided practical experience in embedded systems, FPGA-based digital design, sensor interfacing, hardware integration, safety logic, and real-time data visualization.
 
+## 👥 Team LogicNova
+
+This was a collaborative team project, developed and presented by:
+
+- **Prisha V K**
+- **Adithya S P**
+- **Prerana Hegde**
+- **Dashami C**
+
+We worked together on the project development, hardware experimentation, system exploration and presentation.
+
+
 ## 🚀 Future Improvements
 
 - Debug and validate the Verilog implementation.
